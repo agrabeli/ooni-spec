@@ -4,7 +4,7 @@
 
 # Specification name
 
-Multi Port Traceroute test
+Multi Protocol Traceroute test
 
 # Test preconditions
 
